@@ -32,3 +32,4 @@ The Oscars dashboard focuses on the Netflix titles that have won or been nominat
 ### Acknowledgments
 I would like to extend my gratitude to the YouTube channel Canalytics for their insightful and helpful tutorials, which greatly assisted me throughout this project.
 
+![Captura de tela 2024-07-22 174404](https://github.com/user-attachments/assets/f8f76bdc-6cb7-4020-bd5f-0ee0025d8b09)
